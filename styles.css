@@ -1,0 +1,80 @@
+body {
+    margin: 20px;
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: monospace;
+    font-size: 17px
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #edede9;
+    color: #2b2839;
+    border-bottom: 10px solid #d6ccc2;
+        
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #5f55af;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 5px #999;
+  }
+  
+  .button:hover {background-color: #463d8a}
+  
+  .button:active {
+    background-color: #463d8a;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+/*
+.button{
+  background: #5f55af;
+  border: 0;
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+     
+}
+/*
+
+
+
+/*
+Final challenge:
+Download the code to your local computer and place it
+in a folder called "business-card"
+*/
