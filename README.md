@@ -1,6 +1,6 @@
 # Namecard
 
-Hi there, here is my digitalize business card!
+Hi there, here is my digitalize name card!
 
 >> https://tinyurl.com/javennamecard
 
